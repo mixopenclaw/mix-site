@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --container: 1100px; }
+html,body { height: 100%; }
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+
+/* Example utilities */
+.bg-primary-500 { background-color: #7c5cff; }
+.bg-primary-600 { background-color: #6b46f6; }
+.text-primary-500 { color: #7c5cff; }
