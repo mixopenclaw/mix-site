@@ -14,11 +14,12 @@
     "react-dom": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
+    "@tailwindcss/postcss": "^4.2.2",
     "@types/node": "latest",
-    "tailwindcss": "latest",
+    "@types/react": "latest",
+    "autoprefixer": "latest",
     "postcss": "latest",
-    "autoprefixer": "latest"
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
